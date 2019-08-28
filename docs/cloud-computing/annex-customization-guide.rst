@@ -3,9 +3,9 @@ HTCondor Annex Customization Guide
 
 Aside from the configuration macros (see the 
 :doc:`/cloud-computing/annex-configuration` section), the major way to 
-ustomize *condor_annex* is my customizing the default disk image. Because
+customize *condor_annex* is by customizing the default disk image. Because
 the implementation of *condor_annex* varies from service to service, and that
-implementation determines the constraints on the disk image, the this section
+implementation determines the constraints on the disk image, this section
 is divided by service.
 
 Amazon Web Services
